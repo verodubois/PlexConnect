@@ -24,7 +24,7 @@ g_settings = { \
     \
     'enable_dnsserver':('True', 'False'), \
     'port_dnsserver'  :('53',), \
-    'ip_dnsmaster'    :('8.8.8.8',), \
+    'ip_dnsmaster'    :('203.144.206.29',), \
     'prevent_atv_update'           :('True', 'False'), \
     \
     'enable_plexconnect_autodetect':('True', 'False'), \
